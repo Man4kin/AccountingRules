@@ -1,1 +1,1 @@
-AccountingRules
+Правила для обмена
